@@ -7,5 +7,7 @@
 5) 최종 가공 문서 제작
 6) co-occurrence matrix
 7) similarity matrix
-8) PCA분석
-9~11) ARIMA 분석
+8) PCA분석 
+9) ARIMA 분석1
+10) ARIMA 분석2
+11) ARIMA 분석3
